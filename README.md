@@ -7,13 +7,9 @@
 
 Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
 
-## Official Documentation
-
-Run with `php -S localhost:8000 -t public`.
-
-## Official Documentation
-
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+## Project Run Steps
+Database: Create a database named `product-crud`. Make sure that `.env` file database information is synced with current environment.
+Command: Run with `php -S localhost:8000 -t public`.
 
 ## Endpoints
 
